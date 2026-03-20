@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: googleclothes
-        image: 905418310012.dkr.ecr.us-east-1.amazonaws.com/shopping-site-googleclothes:aa361635fecb24340d65d77b57c8c0629659527a
+        image: 905418310012.dkr.ecr.us-east-1.amazonaws.com/shopping-site-googleclothes:083a0ff5216e3db0d9034f4f25674b0d9adc425e
         ports:
         - containerPort: 80
